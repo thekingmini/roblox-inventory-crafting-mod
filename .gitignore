@@ -1,0 +1,34 @@
+# Roblox files that shouldn't be tracked
+*.rbxl
+*.rbxm
+*.rbxs
+
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Build artifacts
+/build/
+/dist/
+/out/
+
+# Dependencies
+/node_modules/
